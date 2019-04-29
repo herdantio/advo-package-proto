@@ -1,6 +1,6 @@
 {
   "name": "advo-package-proto",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "main": "./dist/advo-proto.common.js",
   "files": [
     "dist/*",
